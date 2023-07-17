@@ -1,0 +1,259 @@
+ 
+ body{
+    width: 1000px;
+    height: 1900px; 
+    overflow: scroll;
+ }
+ .one{
+    width: 7%;
+    height: 2000px;
+    background-color: #131313;;
+}
+.indi{
+    position: absolute;
+    left: 20px;
+    top: 5px;
+    font-size: 24px;
+    color: #ff4e4e;
+}
+.icon{
+    position: absolute;
+    top: 90px;
+    width: 18px;  
+    height: 17px;
+    cursor: pointer;
+}
+.fa-magnifying-glass{
+    position: absolute;
+    top:-10px;
+    left: 30px;
+}
+.fa-film{
+    position: absolute;
+    top: 50px;
+    left: 30px;
+}
+.fa-star{
+    position: absolute;
+    top: 120px;
+    left: 30px;
+}
+.fa-user{
+    position: absolute;
+    top: 190px;
+    left: 30px;
+}
+.two{
+    position:absolute;
+    width: 100%;
+    height: 544px;
+    background-image:url(/img/fallback-img\ \(1\).png);
+    left: 78px;
+    top: 8px;
+    background-repeat:no-repeat ;
+}
+.word{
+    position: relative;
+    color: white;
+    left: 50px;
+}
+h1{
+    position: absolute;
+    font-size: 50px;
+    left: 0px;
+}
+h6{
+    position: absolute;
+    top: 100px;
+    color: #747474;
+}
+.a{
+    position: absolute;
+    top: 150px;
+}
+.dir{
+    position: absolute;
+    top: 250px;
+}
+.now{
+    position: absolute;
+    top: 350px;
+    width: 180px;
+    height: 40px;
+    border-radius: 50px;
+    border-color: #ff4e4e;
+    background-color: #080808;
+    cursor: pointer;
+}
+.fa-play{
+    position: absolute;
+    top: 363px;
+    left: 30px;
+}
+.three{
+    position: absolute;
+    top:550px;
+    left: 78px;
+    background-color: #131313;
+    width: 1331px;
+    height: 1460px; 
+}
+.ad{
+    color: white;
+    font-size: 30px;
+}
+.img{
+    position: absolute;
+    top: 100px;
+}
+.img1{
+    position: absolute;
+    left: 210px;
+}
+.img2{
+    position: absolute;
+    left: 420px;
+}
+.img3{
+    position: absolute;
+    left:630px;
+}
+.img4{
+    position: absolute;
+    left: 840px;
+}
+.img5{
+    position: absolute;
+    left: 1050px;
+}
+.img6{
+    position: absolute;
+    top: 400px;
+}
+.img7{
+    position: absolute;
+    top: 400px;
+    left: 210px;
+}
+.img8{
+    position: absolute;
+    top: 400px;
+    left: 420px;
+}
+.img9{
+    position: absolute;
+    top: 400px;
+    left:630px ;
+}
+.img10{
+    position: absolute;
+    top: 400px;
+    left: 840px;
+}
+.img11{
+    position: absolute;
+    top: 400px;
+    left: 1050px;
+}
+.top{
+    position: absolute;
+    color: white;
+    top: 660px;
+    font-size: 30px;
+}
+.img12{
+    position: absolute;
+    top: 730px;
+}
+.img13{
+    position: absolute;
+    top: 730px;
+    left: 210px;
+}
+.img14{
+    position: absolute;
+    top:730px;
+    left:420px ;   
+}
+.img15{
+    position: absolute;
+    top: 730px;
+    left: 630px;
+}
+.img16{
+    position: absolute;
+    top: 730px;
+    left:840px ;
+}
+.img17{
+    position: absolute;
+    top: 730px;
+    left: 1050px;
+}
+.img18{
+    position: absolute;
+    top: 1030px;  
+}
+.img19{
+    position: absolute;
+    top: 1030px;
+   left:210px ;
+}
+.img20{
+    position: absolute;
+    top: 1030px;
+    left: 420px ;    
+}
+.img21{
+    position: absolute;
+    top: 1030px;
+    left:630px ;  
+}
+.img22{
+    position: absolute;
+    top: 1030px;
+    left:840px ;  
+}
+.img23{
+    position: absolute;
+    top:1030px;
+    left: 1050px;
+}
+.four{
+    width: 1400px;
+    height: 400px;
+    margin: -20px 0px;
+    background-color: #080808;
+    border-color: white;
+}
+.stay{
+    position: absolute;
+    color: white;
+    margin: 50px 100px;
+    font-size: 50px;
+}
+.from{
+    margin: 100px 100px;
+    color: white;
+}
+.email{
+    margin: 1px 90px;
+    color: white;
+    font-size: 20px;
+}
+.sub{
+    margin: -90px 540px;
+    width: 97px;
+    height: 30px;
+    border-radius: 32.45px;
+    background-color: black;
+    color: white;
+}
+.hr{
+    margin: 10px 70px;
+    width: 450px;
+}
+.cinema{
+    margin: -150px 800px ;
+    height:100%;
+}
